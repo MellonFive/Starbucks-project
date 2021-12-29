@@ -8,3 +8,4 @@ Tecnologias utilizadas:
 
 *Ainda precisa colocar o site no responsivo! -> https://www.youtube.com/watch?v=HXKNedyDbNE&t=134s*
 
+***Subir no README.md no github o mais breve possível***
